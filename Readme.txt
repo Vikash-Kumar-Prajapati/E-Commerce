@@ -1,0 +1,1 @@
+Import the file signup_database.sql in phpmyadmin
